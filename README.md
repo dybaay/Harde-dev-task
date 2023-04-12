@@ -9,4 +9,4 @@ Run the following  command to set up the app
 - Create a database and fill the credentials appropriately in the .env
 - php artisan migrate
 - php artisan db:seed.
-- php artisan test (to test).
+- php artisan test tests (to test).
